@@ -1,0 +1,53 @@
+{
+  "applinks":{
+    "apps":[],
+    "details":[
+      {
+        "appIDs":[
+          "WP49K9E6PT.ch.tcs.mobile.dev"
+        ],
+        "components":[
+          {
+            "/": "*"
+          }
+        ]
+      },{
+        "appIDs":[
+          "WP49K9E6PT.ch.tcs.mobile"
+        ],
+        "components":[
+          {
+            "/": "*"
+          }
+        ]
+      },{
+        "appIDs":[
+          "WP49K9E6PT.ch.tcs.mobile.acp"
+        ],
+        "components":[
+          {
+            "/": "*"
+          }
+        ]
+      },{
+        "appIDs":[
+          "WP49K9E6PT.ch.tcs.app.preview"
+        ],
+        "components":[
+          {
+            "/": "*"
+          }
+        ]
+      },{
+        "appIDs":[
+          "WP49K9E6PT.ch.tcs.traffic"
+        ],
+        "components":[
+          {
+            "/": "*"
+          }
+        ]
+      }
+    ]
+  }
+}

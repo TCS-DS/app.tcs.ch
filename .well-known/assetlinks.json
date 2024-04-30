@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ch.tcs.mobile.dev",
+      "sha256_cert_fingerprints": [
+        "5B:4D:24:5E:B4:8C:48:31:27:0A:54:A5:52:D5:91:81:CC:B7:37:F8:0F:12:1E:19:0A:FB:FD:8B:33:FE:6C:02"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ch.tcs.mobile.acp",
+      "sha256_cert_fingerprints": [
+        "5B:4D:24:5E:B4:8C:48:31:27:0A:54:A5:52:D5:91:81:CC:B7:37:F8:0F:12:1E:19:0A:FB:FD:8B:33:FE:6C:02"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.iAgentur.tcs",
+      "sha256_cert_fingerprints": [
+        "00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00"
+      ]
+    }
+  }
+]
