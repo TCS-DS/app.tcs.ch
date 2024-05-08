@@ -6,45 +6,60 @@
         "appIDs":[
           "WP49K9E6PT.ch.tcs.mobile.dev"
         ],
+        "paths": [
+          "*"
+        ],
         "components":[
           {
-            "/": "*"
+            "/": "/*"
           }
         ]
       },{
         "appIDs":[
           "WP49K9E6PT.ch.tcs.mobile"
         ],
+        "paths": [
+          "*"
+        ],
         "components":[
           {
-            "/": "*"
+            "/": "/*"
           }
         ]
       },{
         "appIDs":[
           "WP49K9E6PT.ch.tcs.mobile.acp"
         ],
+        "paths": [
+          "*"
+        ],
         "components":[
           {
-            "/": "*"
+            "/": "/*"
           }
         ]
       },{
         "appIDs":[
           "WP49K9E6PT.ch.tcs.app.preview"
         ],
+        "paths": [
+          "*"
+        ],
         "components":[
           {
-            "/": "*"
+            "/": "/*"
           }
         ]
       },{
         "appIDs":[
           "WP49K9E6PT.ch.tcs.traffic"
         ],
+        "paths": [
+          "*"
+        ],
         "components":[
           {
-            "/": "*"
+            "/": "/*"
           }
         ]
       }
