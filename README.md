@@ -13,7 +13,10 @@ The two files in the `.well-known` folder are used by both Android and iOS to ve
 
 
 ### Redirections
-Note that `index.html` and `404.html` both redirects to `tcs.ch/app` website in case the deeplink is not supported in user-device.
+Note that `index.html` and `404.html` both redirect users when the deeplink is not handled by the app (app not installed, desktop, ...):
+- iOS devices are redirected to the App Store
+- Android devices are redirected to Google Play
+- Other devices are redirected to the `tcs.ch/app` website
 
 For example a user accessing `https://app.tcs.ch/map` on his computer would be redirected to the tcs website instead of seeing a generic 404 page.
 
